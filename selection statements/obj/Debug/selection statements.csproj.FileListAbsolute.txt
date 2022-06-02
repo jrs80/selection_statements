@@ -1,0 +1,8 @@
+C:\Git_Repos\selection_statements\selection statements\obj\Debug\selection statements.csproj.AssemblyReference.cache
+C:\Git_Repos\selection_statements\selection statements\obj\Debug\selection statements.csproj.SuggestedBindingRedirects.cache
+C:\Git_Repos\selection_statements\selection statements\obj\Debug\selection statements.csproj.CoreCompileInputs.cache
+C:\Git_Repos\selection_statements\selection statements\bin\Debug\selection statements.exe.config
+C:\Git_Repos\selection_statements\selection statements\bin\Debug\selection statements.exe
+C:\Git_Repos\selection_statements\selection statements\bin\Debug\selection statements.pdb
+C:\Git_Repos\selection_statements\selection statements\obj\Debug\selection statements.exe
+C:\Git_Repos\selection_statements\selection statements\obj\Debug\selection statements.pdb
